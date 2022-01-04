@@ -1,0 +1,2 @@
+model_checkpoint_path: "generator.tf"
+all_model_checkpoint_paths: "generator.tf"
